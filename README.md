@@ -15,7 +15,7 @@ Create your own project from scratch or clone this and use as a base, if you cho
 You can then execute npm start in your terminal while inside the project directory to launch the application in the web with auto refresh when you save file changes.
 
 # Delivery
-* Send in the code as a link to github (public repo, without the node_modules directory). 
- * The app should come with clear and simple instructions for how to run it.
+* Use a public github repo (commit often so we can track your progress).
+* The app should come with clear and simple instructions for how to run it.
 
 You are allowed to use any frameworks/libraries you want. That said, extensive use of frameworks and libraries will, of course, make it harder for us to evaluate your solution. 
